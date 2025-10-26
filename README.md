@@ -5,4 +5,3 @@
 Complete within 2 hours.
 UI includes browser layout, header, navigator, and form.
 UI only, no functionality required, approximately 70% pixel perfect.
-![alt text]
